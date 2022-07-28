@@ -1,0 +1,7 @@
+[Plugin]
+IAge=3
+Name=Close Empty Windows
+Description=Allows user to skip the extra Ctrl-w when done with a file, like a browser
+Version=1.0
+Loader=python3
+Module=closeemptywindows

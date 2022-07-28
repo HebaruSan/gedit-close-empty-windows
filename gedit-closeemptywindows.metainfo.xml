@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <id>gedit-closeemptywindows</id>
+  <extends>org.gnome.gedit.desktop</extends>
+  <name>Close Empty Windows</name>
+  <summary>Allows user to skip the extra Ctrl-w when done with a file, like a browser</summary>
+  <metadata_license>Unlicense</metadata_license>
+  <project_license>Unlicense</project_license>
+</component>
